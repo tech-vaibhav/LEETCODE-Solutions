@@ -1,3 +1,6 @@
+// Given a number N, the task is to check whether the number is an Automorphic number or not. 
+// AUTOMORPHIC NUMBERS: A number is called an Automorphic number if and only if its square ends in the same digits as the number itself.
+// ______________________________________________________________________________________________________________________________________:)
 import java.util.Scanner;
 public class AutomorphicNumber{
     public static void main(String[] args) {
